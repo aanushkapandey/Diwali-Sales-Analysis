@@ -39,7 +39,7 @@ This project involves Exploratory Data Analysis (EDA) on a dataset of Diwali sal
 - **Product Category Performance**
 - **Impact of Marital Status on Sales**
 
----
+
 
 ## Insights
 
@@ -48,7 +48,7 @@ This project involves Exploratory Data Analysis (EDA) on a dataset of Diwali sal
 - **Healthcare and Government sector** employees made frequent high-value purchases.
 - Married individuals showed higher purchase frequency.
 
----
+
 
 ## Technologies Used
 
